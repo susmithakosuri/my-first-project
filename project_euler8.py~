@@ -1,0 +1,3 @@
+num = 32145
+li = []
+print(reversed(num))

@@ -1,0 +1,4 @@
+num = int(input())
+num1 = str(num)
+length = len(num1)
+print(length)

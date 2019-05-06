@@ -1,0 +1,3 @@
+a = 'susmitha'
+b = list[a]
+print(b)
